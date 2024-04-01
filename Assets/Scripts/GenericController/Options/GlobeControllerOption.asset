@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffa5eb6929ef3084cbcbfd4d31331aa7, type: 3}
+  m_Name: GlobeControllerOption
+  m_EditorClassIdentifier: 
+  _orthographic: 0
+  _moveSensivity: 0.5
+  _zoomSensivity: 0.5
+  _rotateSensivity: 0
+  _moveSpeed: 20
+  _zoomSpeed: 20
+  _fieldOfView: 60
+  _moveLimit: 0
+  _azimuthRotateLimit: 0
+  _elevationRotateLimit: 0
+  elevationSensivity: 2
+  azimuthSensivity: 2
+  maxElevation: 90
+  minElevation: -90
+  maxDistance: 8
+  minDistance: 3
+  moveClamper: 0.625
+  originDistance: 5
+  originElevation: 32
+  originAzimuth: 50
+  originTargetPos: {x: 0, y: 0, z: 0}
+  originTargetRot: {x: -0, y: 0, z: 0}
+  currentElevation: 40.699997
+  currentAzimuth: 122.69995
+  currentDistance: 6.803688
+  target: {fileID: 0}
+  isKoreanPeninsula: 0

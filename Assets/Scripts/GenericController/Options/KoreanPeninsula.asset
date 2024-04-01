@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffa5eb6929ef3084cbcbfd4d31331aa7, type: 3}
+  m_Name: KoreanPeninsula
+  m_EditorClassIdentifier: 
+  _orthographic: 0
+  _moveSensivity: 0.01
+  _zoomSensivity: 0.5
+  _rotateSensivity: 0
+  _moveSpeed: 5
+  _zoomSpeed: 20
+  _rotateSpeed: 0
+  _fieldOfView: 60
+  _moveLimit: 0
+  _rotateLimit: 0
+  _azimuthRotateLimit: 0
+  _elevationRotateLimit: 0
+  elevationSensivity: 2
+  azimuthSensivity: 2
+  maxElevation: 45
+  minElevation: -30
+  maxDistance: 6
+  minDistance: 2
+  moveClamper: 0.375
+  originDistance: 2.5
+  originElevation: 32
+  originAzimuth: 333
+  originTargetPos: {x: 6.11, y: 14.14, z: -15.29}
+  originTargetRot: {x: -0, y: 0, z: 0}
+  currentElevation: 32
+  currentAzimuth: 333
+  currentDistance: 5.2244964
+  target: {fileID: 0}
+  isKoreanPeninsula: 1
